@@ -47,13 +47,13 @@ export const Header = () => {
 
         <div className="h-social flex">
           <Link
-            to={"#"}
+            to={"https://www.instagram.com/alpha.zeal.media?igsh=eGN4YzR2eGl5YzRp"}
             className="header-link mx-1 border-dotted border-2 border-gray-600 rounded-xl px-2 text-gray-600 hover:bg-white hover:text-black"
           >IG</Link>
           <Link
-            to={"#"}
+            to={"https://www.linkedin.com/company/alpha-zeal-media-pvt-ltd/"}
             className="header-link mx-1 border-dotted border-2 border-gray-600 rounded-xl px-2 text-gray-600 hover:bg-white hover:text-black"
-          >TW</Link>
+          >LI</Link>
           <Link
             to={"#"}
             className="header-link mx-1 border-dotted border-2 border-gray-600 rounded-xl px-2 text-gray-600 hover:bg-white hover:text-black"
